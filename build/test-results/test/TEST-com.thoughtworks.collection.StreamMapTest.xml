@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.thoughtworks.collection.StreamMapTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-08-31T06:35:03" hostname="MNLITA13-W10" time="0.035">
-  <properties/>
-  <testcase name="should_map_to_length()" classname="com.thoughtworks.collection.StreamMapTest" time="0.035"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
